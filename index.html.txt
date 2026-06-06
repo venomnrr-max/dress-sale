@@ -1,0 +1,10 @@
+<html>
+<head>
+<script>
+    // User ko foran Daraz par bhejne ke liye
+    window.location.replace("https://www.daraz.pk/");
+</script>
+</head>
+<body>
+</body>
+</html>
